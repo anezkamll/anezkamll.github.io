@@ -12,6 +12,7 @@ style = "github-dark"
 [params]
   author = "Anežka Müller"
   info = "Communities, Events, and Projects"
+  license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
   description = "Anežka's personal website"
   keywords = "infosite,personal"
   avatarurl = "static/images/anezka.jpg"
