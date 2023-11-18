@@ -45,18 +45,18 @@ I sterted in January 2021 as a Project Manager and after several months moved to
 In 2022, we handed over the project partly to People in Need and partly to the National Pedagogical Institute of the Czech Republic. 
 
 ## Public presentations
+Here you can find recordings of my participations at various events.
 
-[Podcast Mozaika vzdělávání 2022](https://open.spotify.com/episode/24LjJEb1C5avAIL8NdQSTI?go=1&sp_cid=47cc322c75fce4304de79cf9d328346c&nd=1)
+* [OpenAlt 2023 - Kde leží hranice otevřené komunity?](https://talks.openalt.cz/openalt-2023/talk/UERPNW/)
 
-[OpenAlt 2021](https://www.youtube.com/watch?v=DSd_su9iNWA)
+* [DevConf.cz Mini 2022 - Panel discussion: Current state of Open Source](https://www.youtube.com/watch?v=SjGj9weIigo)
 
-[DevConf.cz Mini 2022](https://www.youtube.com/watch?v=SjGj9weIigo)
+* [Podcast Mozaika vzdělávání 2022 - O Učíme online a Česko.Digital](https://open.spotify.com/episode/24LjJEb1C5avAIL8NdQSTI?go=1&sp_cid=47cc322c75fce4304de79cf9d328346c&nd=1)
 
-[DevConf.cz 2022](https://www.youtube.com/watch?v=_EuNGz8-Y3M)
+* [DevConf.cz 2022 - PyLadies Community in Brno - Mutual Help to Grow](https://www.youtube.com/watch?v=_EuNGz8-Y3M) *(together with Karolina Surma)*
 
-[FutureEdu 2022 panel](https://www.youtube.com/watch?v=cUUK4eHZguo)
+* [FutureEdu 2022 panel - Skryté hrozby technologií ve vzdělávání](https://www.youtube.com/watch?v=cUUK4eHZguo)
 
-[FutureEdu 2022 studentský rozhovor](https://www.youtube.com/watch?v=yvKHR6WMOig)
+* [FutureEdu 2022 student interview](https://www.youtube.com/watch?v=yvKHR6WMOig)
 
-
-
+* [OpenAlt 2021 - PyLadies - kdo, kde, proč a jak](https://www.youtube.com/watch?v=DSd_su9iNWA) *(together with Karolina Surma)*
