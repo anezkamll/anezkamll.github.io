@@ -6,13 +6,20 @@ slug = "my_work"
 # Events I co-organized
 
 **PyCon CZ**  \
-I have aprticipated in PyCon CZ organization since 2016 as a volunteer.  \
-In 2018 I joined the core organizing team.  \
-[2018](https://cz.pycon.org/2018/) [2019](https://cz.pycon.org/2019/) [2023](https://cz.pycon.org/2023/)
+I attended the very first PyCon CZ 2015 in Brno and that was a beginning of my long-lasting relationship with Czech Python community.\
+I have participated in PyCon CZ organization since 2016 as a volunteer and in 2018 I joined the core organizing team. .  \ 
+[2018](https://cz.pycon.org/2018/)  [2019](https://cz.pycon.org/2019/)  [2023](https://cz.pycon.org/2023/)
 
-**Festival kreativní byrokracie 2022**
+**Creative Bureaucracy Festival - Hub Prague 2022**\
+I took care of the whole production part of this event in 2022 and took care of the website in 2023. \
+[website is from 2023](https://creativebureaucracy.cz/)
 
-**SolarWinds Meetups**
+**SolarWinds Meetups**  \
+As a part of the SolarWinds Brno team, I was responsible for branding, meetups, and other community events until October 2020.  \
+[SolarWinds Meetup Website](https://www.solarwindsmeetup.com/location/brno_cze/)
+My work covered small local meetups as well as bigger international gatherings, such as:
+[TechSummit 2016](https://www.solarwindsmeetup.com/event/solarwinds-techsummit-2016/)
+[TechSummit 2017, including 3 public workshops](https://www.solarwindsmeetup.com/event/innovation-uncaged-workshops/)
 
 **PyLadies Courses and Workshops**
 
