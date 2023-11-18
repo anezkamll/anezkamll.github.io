@@ -33,8 +33,7 @@ international gatherings, such as: \
 
 
 ### PyLadies CZ Courses and Workshops
-[PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community.
-In the Czech Republic, our main activities are Python courses and workshops for beginners and I am one of the organizers of those events. 
+[PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community. In the Czech Republic, our main activities are Python courses and workshops for beginners and I am one of the organizers of those events. \
 I joined [PyLadies CZ](https://pyladies.cz/) in 2017 as an organizer of local programming courses and workshops. \
 Currently, I support "new generation" of organizers, handle socail media, and represent our community at various events.
 
