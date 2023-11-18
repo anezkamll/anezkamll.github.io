@@ -15,10 +15,12 @@ I took care of the whole production part of this event in 2022 and took care of 
 [website from 2023](https://creativebureaucracy.cz/)
 
 ### SolarWinds Meetups
-As a part of the SolarWinds Brno team, I was responsible for branding, meetups, and other community events until October 2020.  \
+As a part of the SolarWinds Brno team, I was responsible for branding, meetups, and other community  \
+events until October 2020.  \
 [SolarWinds Meetup Website](https://www.solarwindsmeetup.com/location/brno_cze/)
 
-My work covered overall organization of small or mid-size local meetups, and also production of bigger international gatherings, such as: \
+My work covered overall organization of small or mid-size local meetups, and also production of bigger  \
+international gatherings, such as: \
 [TechSummit 2016](https://www.solarwindsmeetup.com/event/solarwinds-techsummit-2016/) \
 [TechSummit 2017, including 3 public workshops](https://www.solarwindsmeetup.com/event/innovation-uncaged-workshops/) 
 
