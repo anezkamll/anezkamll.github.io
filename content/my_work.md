@@ -5,7 +5,7 @@ slug = "my_work"
 
 ## Events
 
-### 3 tváře spravedlivé tranzice)
+### 3 tváře spravedlivé tranzice
 An environmentally-focused event organized by [Doughnut Czechia](https://www.doughnutczechia.cz/) and [Pábení](https://www.pabeni.cz/) \
 at the occasion of [Global Donut Day](https://doughnuteconomics.org/globaldonutday). 
 The goal was to interconnect representatives from business, non-profit and state administration who work or want to work to ensure a good life within the limits of the planet for all Czechs. \
@@ -33,6 +33,13 @@ international gatherings, such as: \
 
 
 ### PyLadies Courses and Workshops
+
+## Projects
+
+### Učíme online
+The [Učíme online](https://www.ucimeonline.cz/o-nas/) project was created in the spring of 2020 as a community activity of the non-profit organization Česko.Digital in cooperation with the GUG.cz community, GEG ČR, Microsoft Student Training Center, Microsoft Innovative Educator Experts, Google ČR, Microsoft ČR and American Academy. 
+I sterted in January 2021 as a Project Manager and after several months moved to the coordinating and supportig role for a volunteer team who took over the main operation of the project.
+In 2022, we handed over the project partly to People in Need and partly to the National Pedagogical Institute of the Czech Republic. 
 
 ## Public presentations
 
