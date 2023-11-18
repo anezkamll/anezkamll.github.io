@@ -1,5 +1,5 @@
 +++ 
-title = "My Work" 
+title = "My Work and Activities" 
 slug = "my_work" 
 +++
 
