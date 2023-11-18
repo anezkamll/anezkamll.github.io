@@ -3,7 +3,7 @@ title = "My Work"
 slug = "my_work" 
 +++
 
-## Events I co-organized
+## Events
 
 ### PyCon CZ
 I attended the very first PyCon CZ 2015 in Brno and that was a beginning of my long-lasting relationship with Czech Python community.
