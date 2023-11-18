@@ -5,6 +5,13 @@ slug = "my_work"
 
 ## Events
 
+### 3 tváře spravedlivé tranzice)
+An environmentally-focused event organized by [Doughnut Czechia](https://www.doughnutczechia.cz/) and [Pábení](https://www.pabeni.cz/) \
+at the occasion of [Global Donut Day](https://doughnuteconomics.org/globaldonutday). 
+The goal was to interconnect representatives from business, non-profit and state administration who work or want to work to ensure a good life within the limits of the planet for all Czechs. \
+I was hired to take care of the event production.
+[Event website](https://www.eventbrite.com/e/3-tvare-spravedlive-tranzice-tickets-715951047857)
+
 ### PyCon CZ
 I attended the very first PyCon CZ 2015 in Brno and that was a beginning of my long-lasting relationship with Czech Python community.
 I have participated in PyCon CZ organization since 2016 as a volunteer, and in 2018 I joined the core organizing team. \
