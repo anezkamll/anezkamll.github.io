@@ -9,7 +9,7 @@ slug = "my_work"
 [Česko.Digital](https://cesko.digital/) is a community of specialists from many fields, from IT to project management to marketing, with various background. \
 NGO, public administration, business, and more. We guide non-profit organizations and public administrations through the process \
 of digital transformation, and our goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
-
+My role is called Community Experience Lead - I take care of the backgroudn processes, community operations, community building, and the overall positive experience of our community members.
 
 ### PyLadies
 [PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community. In the Czech Republic, our main activities are Python courses and workshops for beginners and I am one of the organizers of those events. \
@@ -17,8 +17,7 @@ As an alumni, I joined [PyLadies CZ](https://pyladies.cz/) in 2017 as an organiz
 Currently, I support "new generation" of organizers, handle socail media, and represent our community at various events.
 
 ### Czech Python Community
-
-### 
+In addition to PyLadies, I am also an active member of the Czech Python Community. I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize PyCon CZ (see below) and I am a board member of our service NGO [Pyvec](https://pyvec.org/).
 
 ## Events
 
