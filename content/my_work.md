@@ -24,8 +24,7 @@ I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize P
 ## Events
 
 ### 3 tváře spravedlivé tranzice
-An environmentally-focused event organized by [Doughnut Czechia](https://www.doughnutczechia.cz/) and [Pábení](https://www.pabeni.cz/) \
-at the occasion of [Global Donut Day](https://doughnuteconomics.org/globaldonutday). 
+An environmentally-focused event organized by [Doughnut Czechia](https://www.doughnutczechia.cz/) and [Pábení](https://www.pabeni.cz/) at the occasion of [Global Donut Day](https://doughnuteconomics.org/globaldonutday). 
 The goal was to interconnect representatives from business, non-profit and state administration who work or want to work to ensure a good life within the limits of the planet for all Czechs. \
 I was hired to take care of the event production.
 [Event website](https://www.eventbrite.com/e/3-tvare-spravedlive-tranzice-tickets-715951047857)
