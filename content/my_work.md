@@ -32,12 +32,16 @@ international gatherings, such as: \
 [TechSummit 2017, including 3 public workshops](https://www.solarwindsmeetup.com/event/innovation-uncaged-workshops/) 
 
 
-### PyLadies Courses and Workshops
+### PyLadies CZ Courses and Workshops
+[PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community.
+In the Czech Republic, our main activities are Python courses and workshops for beginners and I am one of the organizers of those events. 
+I joined [PyLadies CZ](https://pyladies.cz/) in 2017 as an organizer of local programming courses and workshops. \
+Currently, I support "new generation" of organizers, handle socail media, and represent our community at various events.
 
 ## Projects
 
 ### Učíme online
-The [Učíme online](https://www.ucimeonline.cz/o-nas/) project was created in the spring of 2020 as a community activity of the non-profit organization Česko.Digital in cooperation with the GUG.cz community, GEG ČR, Microsoft Student Training Center, Microsoft Innovative Educator Experts, Google ČR, Microsoft ČR and American Academy. 
+The [Učíme online](https://www.ucimeonline.cz/o-nas/) project was created in the spring of 2020 as a community activity of the non-profit organization Česko.Digital in cooperation with the GUG.cz community, GEG ČR, Microsoft Student Training Center, Microsoft Innovative Educator Experts, Google ČR, Microsoft ČR and American Academy. \
 I sterted in January 2021 as a Project Manager and after several months moved to the coordinating and supportig role for a volunteer team who took over the main operation of the project.
 In 2022, we handed over the project partly to People in Need and partly to the National Pedagogical Institute of the Czech Republic. 
 
