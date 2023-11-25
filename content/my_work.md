@@ -23,11 +23,11 @@ I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize P
 
 ## Events
 
-### 3 tváře spravedlivé tranzice
+### Global Donut Day in Prague: 3 Faces of Just Transition
 An environmentally-focused event organized by [Doughnut Czechia](https://www.doughnutczechia.cz/) and [Pábení](https://www.pabeni.cz/) at the occasion of [Global Donut Day](https://doughnuteconomics.org/globaldonutday). 
 The goal was to interconnect representatives from business, non-profit and state administration who work or want to work to ensure a good life within the limits of the planet for all Czechs. \
-I was hired to take care of the event production.
-[Event website](https://www.eventbrite.com/e/3-tvare-spravedlive-tranzice-tickets-715951047857)
+I was hired to take care of the event production. \
+[3 Faces of Just Transition 2023](https://www.eventbrite.com/e/3-tvare-spravedlive-tranzice-tickets-715951047857)
 
 ### PyCon CZ
 I attended the very first PyCon CZ 2015 in Brno and that was a beginning of my long-lasting relationship with Czech Python community.
@@ -36,7 +36,7 @@ I have participated in PyCon CZ organization since 2016 as a volunteer, and in 2
 
 ### Creative Bureaucracy Festival - Hub Prague 2022
 I took care of the whole production part of this event in 2022 and took care of the website in 2023. \
-[website from 2023](https://creativebureaucracy.cz/)
+[Creative Bureaucracy Festival 2023](https://creativebureaucracy.cz/)
 
 ### SolarWinds Meetups
 As a part of the SolarWinds Brno team, I was responsible for branding, meetups, and other community events until October 2020.  \
@@ -53,8 +53,8 @@ Although I am no longer active as a main organizer, I still participate in organ
 
 ## Projects
 
-### Učíme online
-The [Učíme online](https://www.ucimeonline.cz/o-nas/) project was created in the spring of 2020 as a community activity of the non-profit organization Česko.Digital in cooperation with the GUG.cz community, GEG ČR, Microsoft Student Training Center, Microsoft Innovative Educator Experts, Google ČR, Microsoft ČR and American Academy. \
+### We Teach Online
+The We Teach Online ([Učíme online](https://www.ucimeonline.cz/o-nas/)) project was created in the spring of 2020 as a community activity of the non-profit organization Česko.Digital in cooperation with the GUG.cz community, GEG ČR, Microsoft Student Training Center, Microsoft Innovative Educator Experts, Google ČR, Microsoft ČR and American Academy. \
 I sterted in January 2021 as a Project Manager and after several months moved to the coordinating and supportig role for a volunteer team who took over the main operation of the project.
 In 2022, we handed over the project partly to People in Need and partly to the National Pedagogical Institute of the Czech Republic. 
 
