@@ -6,6 +6,7 @@ aliases = ["about-us", "about-anezka", "contact"]
 author = "Anežka Müller" 
 +++
 
+
 I dedicate most of my my working and free time to communities -⁠ I am lucky that what I enjoy is also part of my livelihood.
 Community operations, community building, community processes - you name it.
 
@@ -15,4 +16,17 @@ Currently, my main occupation is community ops for [Česko.Digital](https://cesk
 
 At the same time, I am active in the Czech Python community, either with the Brno [PyLadies](https://pyladies.cz/), in the organizational team of the conference [PyCon CZ](https://cz.pycon.org/2023/), or as a boaed member of the non-profit [Pyvec](https://pyvec.org/).
 
+---
 
+### Career chapters
+
+Freelance Project Consultant and Event Manager, 2021 – now
+* Česko.Digital, 2021 – now (Community and Projects)
+* Pábení, 2023 (Event management) 
+
+Project Manager, Employer Branding Specialist, 2017 – 2021
+* SolarWinds Czech
+
+IT Recruiter, 2011 - 2017
+* IT Jobs 2011 - 2014
+* SolarWinds Czech 2014 - 2017
