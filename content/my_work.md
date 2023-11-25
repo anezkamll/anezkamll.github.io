@@ -19,7 +19,7 @@ Currently, I support "new generation" of organizers, handle socail media, and re
 
 ### Czech Python Community
 In addition to PyLadies, I am also an active member of the Czech Python Community.
-I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize PyCon CZ (see below) and I am a board member of our service NGO [Pyvec](https://pyvec.org/).
+I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize PyCon CZ (see below), and I am a board member of our service NGO [Pyvec](https://pyvec.org/).
 
 ## Events
 
