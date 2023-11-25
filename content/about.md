@@ -1,5 +1,5 @@
 +++ 
-title = "About me" 
+title = "About Me" 
 description = "Anezka's personal website" 
 date = "2023-11-18" 
 aliases = ["about-us", "about-anezka", "contact"] 
@@ -19,7 +19,7 @@ In my free time, I am active in the Czech Python community, either with the Brno
 
 ---
 
-### Career chapters
+### Career Chapters
 
 Freelance Project Consultant and Event Manager, 2021 – now
 * Česko.Digital, 2021 – now (Community and Projects)
