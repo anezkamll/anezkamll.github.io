@@ -21,7 +21,7 @@ In my free time, I am active in the Czech Python community, either with the Brno
 
 ### Career Chapters
 
-Freelance Project Consultant and Event Manager, 2021 – now
+Freelance Community Ops, Project Consultant, Event Manager, 2021 – now
 * Česko.Digital, 2021 – now (Community and Projects)
 * Pábení, 2023 (Event management) 
 
