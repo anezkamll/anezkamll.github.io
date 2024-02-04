@@ -61,7 +61,7 @@ In 2022, we handed over the project partly to People in Need and partly to the N
 ## Public presentations
 Here you can find recordings of my participations at various events.
 
-[//]: # "* [FOSDEM 2024 - Where are the limits of open communities?](https://fosdem.org/2024/schedule/event/fosdem-2024-1690-where-are-the-limits-of-open-communities-/) [EN]"
+* [FOSDEM 2024 - Where are the limits of open communities?](https://fosdem.org/2024/schedule/event/fosdem-2024-1690-where-are-the-limits-of-open-communities-/) [EN]
 
 * [OpenAlt 2023 - Kde leží hranice otevřené komunity?](https://talks.openalt.cz/openalt-2023/talk/UERPNW/) [CZ]
 
