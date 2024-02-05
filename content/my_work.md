@@ -10,6 +10,7 @@ slug = "my_work"
 NGO, public administration, business, and more. 
 We guide non-profit organizations and public administrations through the process of digital transformation, and our goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
 My role is called Community Experience Lead - I take care of the backgroudn processes, community operations, community building, and the overall positive experience of our community members.
+I am also one of the [administrators](https://diskutuj.digital/u/anezkamll/summary) of the Česko.Digital's open discussion forum [Diskutuj.Digital](https://diskutuj.digital/).
 
 ### PyLadies
 [PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community. 
