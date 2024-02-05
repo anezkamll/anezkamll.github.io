@@ -9,7 +9,7 @@ slug = "my_work"
 [Česko.Digital](https://cesko.digital/) is a community of specialists from many fields, from IT to project management to marketing, with various background. 
 NGO, public administration, business, and more. 
 We guide non-profit organizations and public administrations through the process of digital transformation, and our goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
-My role is called Community Experience Lead - I take care of the backgroudn processes, community operations, community building, and the overall positive experience of our community members.
+My role is called Community Experience Lead - I take care of the backgroudn processes, community operations, community building, and the overall positive experience of our community members. \
 I am also one of the [administrators](https://diskutuj.digital/u/anezkamll/summary) of the Česko.Digital's open discussion forum [Diskutuj.Digital](https://diskutuj.digital/).
 
 ### PyLadies
