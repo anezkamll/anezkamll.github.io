@@ -37,7 +37,7 @@ I have participated in PyCon CZ organization since 2016 as a volunteer, and in 2
 
 ### Creative Bureaucracy Festival - Hub Prague 2022 - 2024
 I took care of the whole production of this event in 2022 and have been administering the website since 2022. \
-In 2024, I coordinate Česko.Digital's role in organization of CBF, including related programme topics, marketing, and workshops guidance. 
+In 2024, I coordinate Česko.Digital's role in organization of CBF, including related programme topics, marketing, and workshops guidance. \
 [Creative Bureaucracy Festival](https://creativebureaucracy.cz/)
 
 ### PyLadies CZ Courses and Workshops
