@@ -24,6 +24,15 @@ I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize P
 
 ## Events
 
+### Creative Bureaucracy Festival - Hub Prague 2022 - 2024
+I took care of the whole production of this event in 2022 and have been administering the website since 2022. 
+In 2024, I have been responsible for the whole workshop agenda of the festival, including facilitator's guidance. \
+[Creative Bureaucracy Festival](https://creativebureaucracy.cz/)
+
+### EuroPython 2024
+I have been part of the EuroPython Operations team, taking part in online helpdesk and coordination of onsite volunteers. \
+[EuroPython 2024, Prague & Remote](https://ep2024.europython.eu/)
+
 ### Global Donut Day in Prague: 3 Faces of Just Transition
 An environmentally-focused event organized by [Doughnut Czechia](https://www.doughnutczechia.cz/) and [Pábení](https://www.pabeni.cz/) at the occasion of [Global Donut Day](https://doughnuteconomics.org/globaldonutday). 
 The goal was to interconnect representatives from business, non-profit and state administration who work or want to work to ensure a good life within the limits of the planet for all Czechs. \
@@ -34,11 +43,6 @@ I was hired to take care of the event production. \
 I attended the very first PyCon CZ 2015 in Brno and that was a beginning of my long-lasting relationship with Czech Python community.
 I was volunteering at PyCon CZ 2016 and 2017, and in 2018 I joined the core organizing team. Besides the group tasks I was responsible mainly for social media, and in 2023 also for coordinating onsite volunteers. \
 [2018](https://cz.pycon.org/2018/)  [2019](https://cz.pycon.org/2019/)  [2023](https://cz.pycon.org/2023/)
-
-### Creative Bureaucracy Festival - Hub Prague 2022 - 2024
-I took care of the whole production of this event in 2022 and have been administering the website since 2022. 
-In 2024, I coordinate Česko.Digital's role in organization of CBF, including related programme topics, marketing, and workshops' guidance. \
-[Creative Bureaucracy Festival](https://creativebureaucracy.cz/)
 
 ### PyLadies CZ Courses and Workshops
 I organized several semestral courses for beginners, and follow-up courses (e. g. Linux Administration, Python Libraries). 
