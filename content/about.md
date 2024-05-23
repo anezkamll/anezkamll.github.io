@@ -21,13 +21,15 @@ In my free time, I am active in the Czech Python community, either with the Brno
 
 ### Career Chapters
 
-Freelance Community Ops, Project Consultant, Event Manager, 2021 – now
+#### Freelance Community Ops, IT Project Consultant, Event Manager, 2021 – now
+Various roles:
 * Česko.Digital, 2021 – now (Community and Projects)
-* Pábení, 2023 (Event management) 
+* Pábení, 2023 (Event management)
+* Sdružení VIA, 2024 (Community consultations for NGOs)
 
-Project Manager, Employer Branding Specialist, 2017 – 2021
+#### Project Manager, Employer Branding Specialist, 2017 – 2021
 * SolarWinds Czech
 
-IT Recruiter, 2011 – 2017
+#### IT Recruiter, 2011 – 2017
 * IT Jobs 2011 – 2014
 * SolarWinds Czech 2014 – 2017
