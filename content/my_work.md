@@ -44,6 +44,11 @@ I attended the very first PyCon CZ 2015 in Brno and that was a beginning of my l
 I was volunteering at PyCon CZ 2016 and 2017, and in 2018 I joined the core organizing team. Besides the group tasks I was responsible mainly for social media, and in 2023 also for coordinating onsite volunteers. \
 [2018](https://cz.pycon.org/2018/)  [2019](https://cz.pycon.org/2019/)  [2023](https://cz.pycon.org/2023/)
 
+### Open Source Driving the European Digital Decade
+Kick-off event for a foundation of the Czech Open Source Program Office. I was a part of the core organizing team.  \
+At this event, the [Brno Open Source Declaration](https://otevrenamesta.cz/declaration/) was announced.  \
+[Open Source Driving the European Digital Decade](https://openforumeurope.org/event/open-source-driving-the-european-digital-decade/)
+
 ### PyLadies CZ Courses and Workshops
 I organized several semestral courses for beginners, and follow-up courses (e. g. Linux Administration, Python Libraries). 
 Although I am no longer active as a main organizer, I still participate in organizing PyWorkings - day-long narrowly focused workshops (e.g. Git, Data Analysis with Python, Linux for beginners). 
