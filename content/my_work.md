@@ -24,16 +24,21 @@ I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize P
 
 ## Events
 
+### 3 Faces of Just Transition 2024
+Second edition of this conference, this time focused on sustainable work and jobs. \
+I have been responsible for the overall production.
+[Conference website](https://www.doughnutczechia.cz/3tvare) 
+
 ### Creative Bureaucracy Festival - Hub Prague 2022 - 2024
 I took care of the whole production of this event in 2022 and have been administering the website since 2022. 
-In 2024, I have been responsible for the whole workshop agenda of the festival, including facilitator's guidance. \
+In 2024, I was responsible for the whole workshop agenda of the festival, including facilitator's guidance. \
 [Creative Bureaucracy Festival](https://creativebureaucracy.cz/)
 
 ### EuroPython 2024
-I have been part of the EuroPython Operations team, taking part in online helpdesk, #IAmRemarkable workshop organization, and coordination of conference catering. \
+I was a part of the EuroPython Operations team, taking part in online helpdesk, #IAmRemarkable workshop organization, and coordination of conference catering. \
 [EuroPython 2024, Prague & Remote](https://ep2024.europython.eu/)
 
-### Global Donut Day in Prague: 3 Faces of Just Transition
+### Global Donut Day 2023 in Prague: 3 Faces of Just Transition
 An environmentally-focused event organized by [Doughnut Czechia](https://www.doughnutczechia.cz/) and [Pábení](https://www.pabeni.cz/) at the occasion of [Global Donut Day](https://doughnuteconomics.org/globaldonutday). 
 The goal was to interconnect representatives from business, non-profit and state administration who work or want to work to ensure a good life within the limits of the planet for all Czechs. \
 I was hired to take care of the event production. \
