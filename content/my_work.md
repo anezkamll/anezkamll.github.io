@@ -30,7 +30,7 @@ In 2024, I have been responsible for the whole workshop agenda of the festival, 
 [Creative Bureaucracy Festival](https://creativebureaucracy.cz/)
 
 ### EuroPython 2024
-I have been part of the EuroPython Operations team, taking part in online helpdesk and coordination of onsite volunteers. \
+I have been part of the EuroPython Operations team, taking part in online helpdesk, #IAmRemarkable workshop organization, and coordination of conference catering. \
 [EuroPython 2024, Prague & Remote](https://ep2024.europython.eu/)
 
 ### Global Donut Day in Prague: 3 Faces of Just Transition
