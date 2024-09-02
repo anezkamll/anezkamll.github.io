@@ -25,6 +25,7 @@ In my free time, I am active in the Czech Python community, either with the Brno
 Various roles:
 * Česko.Digital, 2021 – now (Community and Projects)
 * Pábení, 2023 – now (Event management)
+* Space Dog, 2024 – now (Community management – CZ Community of Community Builders, IT Trendy)
 * Sdružení VIA, 2024 (Community consultations for NGOs)
 
 #### Project Manager, Employer Branding Specialist, 2017 – 2021
