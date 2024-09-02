@@ -9,8 +9,12 @@ slug = "my_work"
 [Česko.Digital](https://cesko.digital/) is a community of specialists from many fields, from IT to project management to marketing, with various background. 
 NGO, public administration, business, and more. 
 We guide non-profit organizations and public administrations through the process of digital transformation, and our goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
-My role is called Community Experience Lead - I take care of the backgroudn processes, community operations, community building, and the overall positive experience of our community members. \
+My role is Community Operations - I take care of the background processes, community tools, community building, and the overall positive experience of our community members. \
 I am also one of the [administrators](https://diskutuj.digital/u/anezkamll/summary) of the Česko.Digital's open discussion forum [Diskutuj.Digital](https://diskutuj.digital/).
+
+### Czech Community of Community Builders
+In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Czech Community of Community Builders. 
+My role is to revive regular meetups in both Prague and Brno, and help to grow and nourish this community.
 
 ### PyLadies
 [PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community. 
@@ -67,6 +71,9 @@ My work covered overall organization of small or mid-size local meetups, and als
 [TechSummit 2017, including 3 public workshops](https://www.solarwindsmeetup.com/event/innovation-uncaged-workshops/) 
 
 ## Projects
+
+### IT Trendy
+I help to connect various Czech technical communities and put their efforts together to create technical content for community-driven web portal [IT Trendy](https://ittrendy.cz/).
 
 ### We Teach Online
 The We Teach Online ([Učíme online](https://www.ucimeonline.cz/o-nas/)) project was created in the spring of 2020 as a community activity of the non-profit organization Česko.Digital in cooperation with the GUG.cz community, GEG ČR, Microsoft Student Training Center, Microsoft Innovative Educator Experts, Google ČR, Microsoft ČR and American Academy. \
