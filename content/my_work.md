@@ -72,6 +72,10 @@ My work covered overall organization of small or mid-size local meetups, and als
 
 ## Projects
 
+### IT Fitness Test 
+[IT Fitness Test](https://itfitness.eu/cs/) is the largest digital skills test in Central Europe and the most comprehensive way to test the digital skills of (not only) primary and secondary school pupils and teachers.
+I joined the Czech team to support last two months of testing in 2024 and my role covered volunteer team coordination, ad hoc proofreading, help with promotion and preparation for the closing events.
+
 ### IT Trendy
 I help to connect various Czech technical communities and put their efforts together to create technical content for community-driven web portal [IT Trendy](https://ittrendy.cz/).
 
