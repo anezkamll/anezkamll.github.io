@@ -5,7 +5,7 @@ slug = "kisk"
 
 ## What is this page about?
 
-A year ago I decided to get back to school. 
+A year ago I decided to get back to school. \
 While working with various teams on various digital products (mostly in [Česko.Digital](https://www.cesko.digital/), I've had a chance to meet with amazing service and UX dfesigners, observe or event take part in their work and I fell in love with this field. \
 I have no theoretical background in service design whatsoever. 
 Some bits and pieces here and there, but no systemathical education or learning process. 
