@@ -17,6 +17,7 @@ A přesně pro lidi jako já existuje už několik let na KISK MUNI [celý bakal
 V listopadu 2023 jsem podala přihlášku, na jaře 2024 úspěšně prošla výběrovým procesem a na podzim 2024 jsem začala svoji studijní pouť. \
 A tuto stránku jsem založila jako **veřejné portfolio mých školních projektů a aktivit.** 
 
+---
 
 # 1. semestr
 
