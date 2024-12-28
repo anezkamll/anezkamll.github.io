@@ -21,4 +21,4 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 
 # 1. semestr
 
-### [Případová studie z praxe: Vznik osobních profilů komunity Česko.Digital](https://anezka.muller.dev/kisk_content/case_study_proiles/)
+### [Případová studie z praxe: Vznik osobních profilů komunity Česko.Digital](https://anezka.muller.dev/kisk_content/case_study_profiles/)
