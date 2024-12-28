@@ -1,5 +1,5 @@
 +++ 
-title = "My studies at KISK (CZ)" 
+title = "My studies at KISK (Czech content only)" 
 slug = "kisk" 
 +++
 
