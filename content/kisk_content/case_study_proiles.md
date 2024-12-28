@@ -1,4 +1,8 @@
-+++ title = "Případová studie z praxe" date = "2024-12-28" author = "Anežka Müller" +++
++++ 
+title = "Případová studie z praxe" 
+date = "2024-12-28" 
+author = "Anežka Müller" 
++++
 
 ## Případová studie z praxe: Vznik osobních profilů komunity Česko.Digital
 
