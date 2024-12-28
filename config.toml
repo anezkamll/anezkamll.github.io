@@ -68,7 +68,7 @@ style = "github-dark"
   name = "KISK"
   weight = 3
   url = "kisk/"
-[[menu.main]]
-  name = "kisk_content"
-  weight = 4
-  url = "kisk_content/"
+# [[menu.main]]
+#  name = "kisk_content"
+#  weight = 4
+#  url = "kisk_content/"
