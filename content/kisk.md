@@ -93,7 +93,7 @@ Výsledné vyhodnocení obsahovalo:
 Vyhodnocení jsem pak ještě okomentovala z pohledu projektových priorit, abychom mohli s podněty efektivně pracovat.
 Výsledný dokument jsem opět konzultovala s kolegyní Lujzou, především z pohledu užitečnosti výstupů pro tým.
 
-#### Co jsem se (na)učila
+### Co jsem se (na)učila
 Měla jsem štěstí, že mezi respondenty byla i UX výzkumnice a dva lidé z oblasti UX designu, všichni již z řadou zkušeností z oboru. 
 Od všech jsem si po rozhovorech vyžádala zpětnou vazbu, stejně tak od Lujzy, mám tedy řadu podnětů z různých zdrojů.
 
