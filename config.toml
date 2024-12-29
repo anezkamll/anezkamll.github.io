@@ -65,7 +65,7 @@ style = "github-dark"
   weight = 2
   url = "about/"
 [[menu.main]]
-  name = "KISK"
+  name = "KISK (CZ)"
   weight = 3
   url = "kisk/"
 # [[menu.main]]
