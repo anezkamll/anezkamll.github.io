@@ -1,10 +1,8 @@
 +++ 
-title = "Rozhovor s Ivanou Kolcunovou" 
+title = "Ivana Kolcunová: Pokud chci být dobrá výzkumnice, musím mít kvalitní vztah sama se sebou" 
 date = "2025-01-04" 
 author = "Anežka Müller" 
 +++
-
-# Ivana Kolcunová: Pokud chci být dobrá výzkumnice, musím mít kvalitní vztah sama se sebou
 
 ### Ivana Kolcunová je vystudovaná psycholožka, která se přes deset let profesně věnuje uživatelskému výzkumu v Alma Career (dříve LMC), kde se mimo jiné zasadila o zavedení principu demokratizovaného výzkumu a vybudování UX research academy. Stejně dlouho jako uživatelskému výzkumu se věnuje také vzdušné akrobacii na šálách. I tohoto tématu jsme se dotkly v našem rozhovoru, který proběhl 10. 12. 2024.
 
