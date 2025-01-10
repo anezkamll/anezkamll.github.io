@@ -15,6 +15,8 @@ In addition to that, I orginaze events of various types and sizes and occasional
 Currently, my main occupation is community ops for [Česko.Digital](https://cesko.digital/), where I take care of the whole community, its members, and background processes.
 My role is partly strategic, and partly operational. Besides day-to-day tasks, I am involved in service re/design, and the overall organization strategy and planning.
 
+I help to develop, nurture, and support two other communities, [Community Builders](communitybuilders.cz) and [Dougnut Czechia](https://www.doughnutczechia.cz/). 
+
 In my free time, I am active in the Czech Python community, either with the Brno [PyLadies](https://pyladies.cz/), in the organizational team of the conference [PyCon CZ](https://cz.pycon.org/2023/), or as a board member of the non-profit [Pyvec](https://pyvec.org/).
 
 ---
