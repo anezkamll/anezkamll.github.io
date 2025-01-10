@@ -12,9 +12,13 @@ We guide non-profit organizations and public administrations through the process
 My role is Community Operations - I take care of the background processes, community tools, community building, and the overall positive experience of our community members. \
 I am also one of the [administrators](https://diskutuj.digital/u/anezkamll/summary) of the Česko.Digital's open discussion forum [Diskutuj.Digital](https://diskutuj.digital/).
 
-### Czech Community of Community Builders
-In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Czech Community of Community Builders. 
+### Community Builders Community
+In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Community Builders (originally Czech Community of Community Builders). 
 My role is to revive regular meetups in both Prague and Brno, and help to grow and nourish this community.
+
+### Doughnut Czechia
+After two years of 3 Faces of Just Transition conference, I became more involved in other activities of Doughnut Czechia. 
+I am currently helping with developing an educational board game, and in creating and executing new community strategy.
 
 ### PyLadies
 [PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community. 
