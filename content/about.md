@@ -24,9 +24,10 @@ In my free time, I am active in the Czech Python community, either with the Brno
 #### Freelance Community Ops, IT Project Consultant, Event Manager, 2021 – now
 Various roles:
 * Česko.Digital, 2021 – now (Community and Projects)
-* Pábení, 2023 – now (Event management)
-* Space Dog, 2024 – now (Community management – CZ Community of Community Builders, IT Trendy)
+* Doughnut Czechia, 2023 – now (Event and Community management)
+* Space Dog, 2024 – now (Community management – Community Builders, IT Trendy)
 * Sdružení VIA, 2024 (Community consultations for NGOs)
+* AAVIT, 2024 – 2025 (Project support, IT Fitness Test 2024)
 
 #### Project Manager, Employer Branding Specialist, 2017 – 2021
 * SolarWinds Czech
