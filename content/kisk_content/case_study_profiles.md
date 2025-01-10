@@ -1,10 +1,10 @@
 +++ 
-title = "Případová studie z praxe" 
+title = "Vznik osobních profilů komunity Česko.Digital" 
 date = "2024-12-28" 
 author = "Anežka Müller" 
 +++
 
-## Případová studie z praxe: Vznik osobních profilů komunity Česko.Digital
+## Případová studie z praxe, podzim 2024
 
 ### Kontext na úvod
 [Česko.Digital](https://www.cesko.digital/) je nezisková organizace s velkou komunitou, ve které se potkávají expertní dobrovolníci, zástupci nezisku, veřejné správy a partnerských organizací, všichni se společným cílem zlepšit úroveň digitalizace v Česku.
