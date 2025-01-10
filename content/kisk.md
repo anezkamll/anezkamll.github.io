@@ -21,5 +21,6 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 
 # 1. semestr
 
-### [Případová studie z praxe: Vznik osobních profilů komunity Česko.Digital](https://anezka.muller.dev/kisk_content/case_study_profiles/)
+### [Případová studie: Vznik osobních profilů komunity Česko.Digital](https://anezka.muller.dev/kisk_content/case_study_profiles/)
 ### [Rozhovor: Ivana Kolcunová, UX výzkumnice, Alma Career](https://anezka.muller.dev/kisk_content/interview_ivana_kolcunova/)
+### [Případová studie: Od aplikace ke komunitě díky designovému procesu](https://anezka.muller.dev/kisk_content/case_study_6h/)
