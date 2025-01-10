@@ -8,6 +8,7 @@ author = "Anežka Müller"
 
 ### Proč tahle případovka?
 Zpracování případové studie projektu 6 hodin jsem zvolila, protože velmi dobře ukazuje, jak důležitý je designový proces, především fáze poznávání a definování, i v případě, kdy se zdá být finální návrh řešení od začátku na stole.
+Navíc to pro mě bylo poprvé, kdy jsem se napřímo účastnila designového procesu, tehdy v roli koordinátorky projektu za organizaci Česko.Digital.
 
 ### Jak to celé začalo?
 V srpnu 2021 oslovily neziskové organizace Sport 2.0 a [Wannado](https://www.wannadosports.com/wannado/) platformu [Česko.Digital](https://www.cesko.digital/) s jasnou představou: **Vytvořit aplikaci motivující rodiče, aby vedli děti ke sportu.** 
