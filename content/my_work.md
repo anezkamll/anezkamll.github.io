@@ -6,7 +6,7 @@ slug = "my_work"
 ## Communities
 
 ### Česko.Digital
-[Česko.Digital](https://cesko.digital/) is an NGO focused on guiding non-profit organizations and public administrations through the process of digital transformation, and its goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
+[Česko.Digital](https://cesko.digital/) is an NGO focused on guiding other non-profit organizations and public administrations through the process of digital transformation, and its goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
 My role is Community Operations, I help to maintain and develop community tools, set up processes and strategies, and provide support. 
 I also jump in as a junior UX researcher when needed.
 
