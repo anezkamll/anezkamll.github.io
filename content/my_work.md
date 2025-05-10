@@ -6,18 +6,16 @@ slug = "my_work"
 ## Communities
 
 ### Česko.Digital
-[Česko.Digital](https://cesko.digital/) is a community of specialists from many fields, from IT to project management to marketing, with various background. 
-NGO, public administration, business, and more. 
-We guide non-profit organizations and public administrations through the process of digital transformation, and our goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
-My role is Community Operations - I take care of the background processes, community tools, community building, and the overall positive experience of our community members. \
-I am also one of the [administrators](https://diskutuj.digital/u/anezkamll/summary) of the Česko.Digital's open discussion forum [Diskutuj.Digital](https://diskutuj.digital/).
+[Česko.Digital](https://cesko.digital/) is an NGO focused on guiding non-profit organizations and public administrations through the process of digital transformation, and its goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
+My role is Community Operations, I help to maintain and develop community tools, set up processes and strategies, and provide support. 
+I also jump in as a junior UX researcher when needed.
 
 ### Community Builders Community
 In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Community Builders (originally Czech Community of Community Builders). 
 My role is to revive regular meetups in both Prague and Brno, and help to grow and nourish this community.
 
 ### Doughnut Czechia
-After two years of 3 Faces of Just Transition conference, I became more involved in other activities of Doughnut Czechia. 
+After two years of 3 Faces of Just Transition conference, I became more involved in other activities of [Doughnut Czechia](https://www.doughnutczechia.cz/). 
 I am currently helping with developing an educational board game, and in creating and executing new community strategy.
 
 ### PyLadies
@@ -27,20 +25,24 @@ As an alumni, I joined [PyLadies CZ](https://pyladies.cz/) in 2017 as an organiz
 Currently, I support "new generation" of organizers, handle socail media, and represent our community at various events.
 
 ### Czech Python Community
-In addition to PyLadies, I am also an active member of the Czech Python Community.
-I help with [local community meetups](https://pyvo.cz/brno-pyvo/), co-organize PyCon CZ (see below), and I am a board member of our service NGO [Pyvec](https://pyvec.org/).
+In addition to PyLadies, I am also an active member of the Czech Python Community, where I mostly help with organizing community events.
 
 ## Events
 
-### 3 Faces of Just Transition 2024
-Second edition of this conference, this time focused on sustainable work and jobs. \
-I have been responsible for the overall production.
-[Conference website](https://www.doughnutczechia.cz/3tvare) 
+### EuroPython 2025
+After volunteering at EuroPython 2024, I was asked by the EuroPython Society Board to cover the local Event Manager role for the EuroPython 2025.
+My responsibilities cover cooperation with all vendors, organization of the main social event and speaker's dinner, and support of the volunteer-led Operations and Sponsors teams. 
 
-### Creative Bureaucracy Festival - Hub Prague 2022 - 2024
+### Creative Bureaucracy Festival - Hub Prague 2022 - 2025
 I took care of the whole production of this event in 2022 and have been administering the website since 2022. 
 In 2024, I was responsible for the whole workshop agenda of the festival, including facilitator's guidance. \
-[Creative Bureaucracy Festival](https://creativebureaucracy.cz/)
+For 2025, my role was to coordinate the whole organizing team as the event manager. \
+[Creative Bureaucracy Festival](https://creativebureaucracy.cz/) 
+
+### 3 Faces of Just Transition 2024
+Second edition of this conference, this time focused on sustainable work and jobs. \
+I was responsible for the overall production.
+[Conference website](https://www.doughnutczechia.cz/3tvare) 
 
 ### EuroPython 2024
 I was a part of the EuroPython Operations team, taking part in online helpdesk, #IAmRemarkable workshop organization, and coordination of conference catering. \
