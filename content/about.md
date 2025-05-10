@@ -12,7 +12,7 @@ Community operations, community events, community building, community processes 
 
 In addition to that, I orginaze events of various types and sizes and occasionaly jump in as a project manager if needed.
 
-Currently, my main occupation is community ops and UX research for [Česko.Digital](https://cesko.digital/)
+Currently, my main occupation is community ops and occasional UX research for [Česko.Digital](https://cesko.digital/)
 My role is partly strategic, and partly operational. Besides day-to-day tasks, I am involved in service re/design, and the overall organization strategy and planning.
 
 I help to develop, nurture, and support two other communities, [Community Builders](communitybuilders.cz) and [Dougnut Czechia](https://www.doughnutczechia.cz/). 
