@@ -27,6 +27,7 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 ### [Reflexe prvního semestru](https://anezka.muller.dev/kisk_content/studijni_cil_1/)
 
 # 2. semestr
+
 ### [Datový deník](https://anezka.muller.dev/kisk_content/datovydenik.md)
 ### Případová studie: Samostatný exploratory research
 ### Reflexe druhého semestru
