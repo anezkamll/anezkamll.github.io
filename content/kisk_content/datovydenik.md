@@ -25,5 +25,20 @@ Od průběžných zpráv na Slacku přes vizualizace v DataWrapperu po animovan�
 
 Nakonec jsme zakotvili u datového dashboardu, který můžete najít [na této stránce](https://app.cesko.digital/stats).
 Každý z nás má na starosti svoje statistiky, které bychom měli jednou za měsíc aktualizovat. 
-V detailu každého grafu je vidět, kdo se o n2j stará, kolik vzorků daná datová sada obsahuje, a je zde i možnost jejich stažení ve formátu CSV.
+V detailu každého grafu je vidět, kdo se o něj stará, kolik vzorků daná datová sada obsahuje, a je zde i možnost jejich stažení ve formátu CSV.
 Svoji porci dat jsem aktualizovala právě dnes. 
+
+## 18. 4. 2025: Příspěvek obcím na výkon státní správy
+
+Včera jsem v rámci výzkumného rozhovoru mluvila s respondentem z Miniterstva vnitra.
+Tématem našeho povídání byly malé samosprávné celky, konkrétně to, jakou agendu vykonávají představitelé a představitelky malých obcí, jak velká porce z toho jsou povinnosti směrem ke státu a vyšším samosprávným celkům v poměru k lokální agendě, s jakými problémy se při své práci potýkají a jak by se jim dalo pomoci. \
+Probírala jsem se poté odkazy a materiály, na které mne můj respondent nasměroval, a narazila jsem na web, který v jednoduchých interaktivních koláčových grafech zobrazuje výši a rozložení příspěvků obcím na výkon státní správy.
+Sdílím k proklikání: [https://www.prispevekobce.cz/](https://www.prispevekobce.cz/)
+
+## 2. 5. 2025: Jak se vidí státní správa
+
+V rámci zpracovávání zjištění z explorativního výzkumu, na kterém aktuálně pracuji, jsem narazila na velice zajímavý výstup z dotazníkového šetření, které v loňském roce zrealizovala Sekce pro státní službu Ministerstva vnitra ve spolupráci s Vládním analytickým útvarem Úřadu vlády. \
+Jmenuje se POHLED ÚŘEDNÍKA/CE 2024 aneb Jak se vidí státní správa a [na stránkách Ministerstva vnitra](https://mv.gov.cz/sluzba/clanek/pruzkum-pohled-urednika-ce.aspx) je dostupné stručné shrnutí, kompletní zpráva i celé znění dotazníku. \
+Návratnost dotazníku byla podle informaci v textu 30%, což je rozhododně zajímavá výpovědní hodnota získaných dat. 
+Která tedy nejsou příliš optimistická.
+Ale bylo to rozhodně velmi zajímavé čtení. 
