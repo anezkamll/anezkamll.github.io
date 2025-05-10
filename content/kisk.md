@@ -28,6 +28,6 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 
 # 2. semestr
 
-### [Datový deník](https://anezka.muller.dev/kisk_content/datovydenik.md)
+### [Datový deník](https://anezka.muller.dev/kisk_content/datovydenik/)
 ### Případová studie: Samostatný exploratory research
 ### Reflexe druhého semestru
