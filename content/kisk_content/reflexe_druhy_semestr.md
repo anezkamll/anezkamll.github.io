@@ -28,7 +28,7 @@ Proto jsem se v tomto semestru chtěla věnovat právě tomu, jak získané info
 
 #### Jak se mi vedlo?
 
-Celou cestu, která vedla k získání podkladů pro tvorbu závěrečné zprávy, najdete v článku [Případová studie: Samostatný exploratory research]/https://anezka.muller.dev/kisk_content/exploratory_research/).
+Celou cestu, která vedla k získání podkladů pro tvorbu závěrečné zprávy, najdete v článku [Případová studie: Samostatný exploratory research](/https://anezka.muller.dev/kisk_content/exploratory_research/).
 
 Největší výzvou pro mne bylo, jak vytvořit výstup, který bude dostatečně samonosný, ale ne zahlcující. 
 Zároveň měl přinést hodnotu různým cílovým skupinám. 
