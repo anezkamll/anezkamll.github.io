@@ -28,7 +28,7 @@ Proto jsem se v tomto semestru chtěla věnovat právě tomu, jak získané info
 
 #### Jak se mi vedlo?
 
-Celou cestu, která vedla k získání podkladů pro tvorbu závěrečné zprávy, najdete v článku XXX.
+Celou cestu, která vedla k získání podkladů pro tvorbu závěrečné zprávy, najdete v článku [Případová studie: Samostatný exploratory research]/https://anezka.muller.dev/kisk_content/exploratory_research/).
 
 Největší výzvou pro mne bylo, jak vytvořit výstup, který bude dostatečně samonosný, ale ne zahlcující. 
 Zároveň měl přinést hodnotu různým cílovým skupinám. 
@@ -105,4 +105,4 @@ Pro moje téma výzkumu motivace a očekávání členů komunity se mi podařil
 Pracovat na výzkumu ve větším týmu, vzájemně konzultovat další postup, společně diskutovat výstupy a formulovat zjištění. 
 
 Materiály z obou předmětů jsem pak zúročila mimo studium i v praxi při zpracovávání samostatného explorativního výzkumu pro Česko.Digital. 
-Více o tom v příspěvku XXX.
+Více o tom v příspěvku [Případová studie: Samostatný exploratory research](https://anezka.muller.dev/kisk_content/exploratory_research/).
