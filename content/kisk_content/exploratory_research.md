@@ -1,5 +1,5 @@
 +++ 
-title = "Reflexe druhého semestru" 
+title = "Případová studie: Samostatný exploratroní výzkum" 
 date = "2025-06-12" 
 author = "Anežka Müller" 
 +++
