@@ -1,5 +1,5 @@
 +++ 
-title = "Případová studie: Samostatný exploratroní výzkum" 
+title = "Případová studie: Samostatný exploratory research" 
 date = "2025-06-12" 
 author = "Anežka Müller" 
 +++
