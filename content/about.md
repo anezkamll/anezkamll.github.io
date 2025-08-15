@@ -33,7 +33,7 @@ Various roles:
 * Doughnut Czechia, 2023 – now (Event and Community management)
 * Space Dog, 2024 – now (Community management – Tech Execs, Community Builders, IT Trendy)
 * Česko.Digital, 2021 – 2025 (Community and Projects)
-* Byro, 2025 (Event Manager, Festival kreativní byrokracie 2025)
+* Byro, 2025 (Event Team Manager, Festival kreativní byrokracie 2025)
 * Sdružení VIA, 2024 (Community consultations for NGOs)
 * AAVIT, 2024 – 2025 (Project support, IT Fitness Test 2024)
 
