@@ -5,14 +5,17 @@ slug = "my_work"
 
 ## Communities
 
+### Community Builders Community
+In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Community Builders (originally Czech Community of Community Builders). 
+My role was to revive regular meetups in both Prague and Brno, and help to grow and nourish this community.
+
+### Tech Execs
+[Tech Execs](https://www.techexecutives.cz/) are another community from Space Dog portfolio. After our one-year cooperation within Community Builders, I was asked to join Tech Execs as a Community Manager to boost the community engagement and support community acitivites. 
+
 ### Česko.Digital
 [Česko.Digital](https://cesko.digital/) is an NGO focused on guiding other non-profit organizations and public administrations through the process of digital transformation, and its goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
 My role is Community Operations, I help to maintain and develop community tools, set up processes and strategies, and provide support. 
 I also jump in as a junior UX researcher when needed.
-
-### Community Builders Community
-In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Community Builders (originally Czech Community of Community Builders). 
-My role is to revive regular meetups in both Prague and Brno, and help to grow and nourish this community.
 
 ### Doughnut Czechia
 After two years of 3 Faces of Just Transition conference, I became more involved in other activities of [Doughnut Czechia](https://www.doughnutczechia.cz/). 
@@ -22,7 +25,7 @@ I am currently helping with developing an educational board game, and in creatin
 [PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community. 
 In the Czech Republic, our main activities are Python courses and workshops for beginners and I am one of the organizers of those events. \
 As an alumni, I joined [PyLadies CZ](https://pyladies.cz/) in 2017 as an organizer of local programming courses and workshops. \
-Currently, I support "new generation" of organizers, handle socail media, and represent our community at various events.
+Currently, I support the new generation of organizers, handle socail media, and represent our community at various events.
 
 ### Czech Python Community
 In addition to PyLadies, I am also an active member of the Czech Python Community, where I mostly help with organizing community events.
