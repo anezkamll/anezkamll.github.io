@@ -27,7 +27,7 @@ In my free time, I am active in the Czech Python community, now mostly as an org
 Various roles:
 * Česko.Digital, 2021 – now (Community and Projects)
 * Doughnut Czechia, 2023 – now (Event and Community management)
-* Space Dog, 2024 – now (Community management – Community Builders, IT Trendy)
+* Space Dog, 2024 – now (Community management – Tech Execs, Community Builders, IT Trendy)
 * Sdružení VIA, 2024 (Community consultations for NGOs)
 * AAVIT, 2024 – 2025 (Project support, IT Fitness Test 2024)
 * EuroPython Society, 2025 (Event Manager, EuroPython 2025)
