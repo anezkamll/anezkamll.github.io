@@ -32,9 +32,19 @@ In addition to PyLadies, I am also an active member of the Czech Python Communit
 
 ## Events
 
+### Viability Lab (Laboratoř životaschopnosti)
+A modified successor of the 3 Faces conferences (see below). 
+We moved from conference format to more workshop-like event. \
+Our goal is to connect active people from the private, public and civic sectors who are experimenting with new ways of collaborating, making decisions and leading teams. \
+We want to create an environment for exchanging experience and open the door to radicall imagination. \
+[Laboratoř životaschopnosti](https://www.doughnutczechia.cz/laborator-zivotaschopnosti)
+
+
 ### EuroPython 2025
 After volunteering at EuroPython 2024, I was asked by the EuroPython Society Board to cover the local Event Manager role for the EuroPython 2025.
-My responsibilities cover cooperation with all vendors, organization of the main social event and speaker's dinner, and support of the volunteer-led Operations and Sponsors teams. 
+My responsibilities covered cooperation with all vendors, organization of the main social event and speaker's dinner, and support of the volunteer-led Operations and Sponsors teams. \
+[EuroPython 2025 Prague & Remote](https://ep2025.europython.eu/)
+
 
 ### Creative Bureaucracy Festival - Hub Prague 2022 - 2025
 I took care of the whole production of this event in 2022 and have been administering the website since 2022. 
