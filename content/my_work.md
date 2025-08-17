@@ -34,8 +34,8 @@ In addition to PyLadies, I am also an active member of the Czech Python Communit
 
 ### Viability Lab (Laboratoř životaschopnosti)
 A modified successor of the 3 Faces conferences (see below). 
-We moved from conference format to more workshop-like event. \
-Our goal is to connect active people from the private, public and civic sectors who are experimenting with new ways of collaborating, making decisions and leading teams. \
+We moved from conference format to more workshop-like event.
+Our goal is to connect active people from the private, public and civic sectors who are experimenting with new ways of collaborating, making decisions and leading teams.
 We want to create an environment for exchanging experience and open the door to radicall imagination. \
 [Laboratoř životaschopnosti](https://www.doughnutczechia.cz/laborator-zivotaschopnosti)
 
