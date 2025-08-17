@@ -47,14 +47,14 @@ My responsibilities covered cooperation with all vendors, organization of the ma
 
 
 ### Creative Bureaucracy Festival - Hub Prague 2022 - 2025
-I took care of the whole production of this event in 2022 and have been administering the website since 2022. 
-In 2024, I was responsible for the whole workshop agenda of the festival, including facilitator's guidance. \
-For 2025, my role was to coordinate the whole organizing team as the event manager. \
+I took care of the whole production of this event in 2022 and have been administering the website from 2022 to 2024. 
+In 2024, I was responsible for the whole workshop agenda of the festival, including facilitator's guidance. 
+For 2025, my role was to coordinate the whole organizing team. \
 [Creative Bureaucracy Festival](https://creativebureaucracy.cz/) 
 
 ### 3 Faces of Just Transition 2024
-Second edition of this conference, this time focused on sustainable work and jobs. \
-I was responsible for the overall production.
+Second edition of this conference, this time focused on sustainable work and jobs.
+I was responsible for the overall production.  \
 [Conference website](https://www.doughnutczechia.cz/3tvare) 
 
 ### EuroPython 2024
@@ -69,7 +69,8 @@ I was hired to take care of the event production. \
 
 ### PyCon CZ 2016 - 2023
 I attended the very first PyCon CZ 2015 in Brno and that was a beginning of my long-lasting relationship with Czech Python community.
-I was volunteering at PyCon CZ 2016 and 2017, and in 2018 I joined the core organizing team. Besides the group tasks I was responsible mainly for social media, and in 2023 also for coordinating onsite volunteers. \
+I was volunteering at PyCon CZ 2016 and 2017, and in 2018 I joined the core organizing team. 
+Besides the group tasks I was responsible mainly for social media, and in 2023 also for coordinating onsite volunteers. \
 [2018](https://cz.pycon.org/2018/)  [2019](https://cz.pycon.org/2019/)  [2023](https://cz.pycon.org/2023/)
 
 ### Open Source Driving the European Digital Decade
