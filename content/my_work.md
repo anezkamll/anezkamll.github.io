@@ -49,8 +49,14 @@ My responsibilities covered cooperation with all vendors, organization of the ma
 ### Creative Bureaucracy Festival - Hub Prague 2022 - 2025
 I took care of the whole production of this event in 2022 and have been administering the website from 2022 to 2024. 
 In 2024, I was responsible for the whole workshop agenda of the festival, including facilitator's guidance. 
-For 2025, my role was to coordinate the whole organizing team. \
+For 2025, my role was to coordinate the whole organizing team.\
 [Creative Bureaucracy Festival](https://creativebureaucracy.cz/) 
+
+### Python Pizza Brno 2025
+A really cool conference format originating from Naples in 2017.  
+In Czechia, the format was first tired in 2024 in Prague. \
+Brno edition in a nutshell: 3 organizers, 100 people, 21 talks, 90 pizzas, all in one day. \
+[Python Pizza Brno](https://brno.python.pizza/)
 
 ### 3 Faces of Just Transition 2024
 Second edition of this conference, this time focused on sustainable work and jobs.
