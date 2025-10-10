@@ -5,6 +5,11 @@ slug = "my_work"
 
 ## Communities
 
+### Byro, community of public servants
+Originally, I joined Byro just for organizing the [Creative Bureaucracy Festival](https://www.creativebureaucracy.cz/). 
+When they started looking for a community person, it was a logical step forward for me. 
+So I joined the team, with a focus on setting up a community building strategy, utilizing existing community resources, and supporting community creators (our core members) in their activities.
+
 ### Community Builders Community
 In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Community Builders (originally Czech Community of Community Builders). 
 My role was to revive regular meetups in both Prague and Brno, and help to grow and nourish this community.
