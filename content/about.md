@@ -12,10 +12,12 @@ Community operations, community events, community building, community processes 
 
 In addition to that, I orginaze events of various types and sizes and occasionaly jump in as a project manager if needed.
 
-Currently, my main occupation is community ops and occasional UX research for [Česko.Digital](https://cesko.digital/)
-My role is partly strategic, and partly operational. Besides day-to-day tasks, I am involved in service re/design, and the overall organization strategy and planning.
+Currently, my main occupation is community of public servants around [Byro](https://www.byro.works/). I help with the community building strategy, community events, and I am supporting the core members in their activities.
 
 I help to develop, nurture, and support two other communities, [Tech Execs](https://www.techexecutives.cz/) and [Dougnut Czechia](https://www.doughnutczechia.cz/). 
+
+For four years, I worked as a community support, community ops, and occasional UX research for [Česko.Digital](https://cesko.digital/)
+My role was partly strategic, and partly operational. Besides day-to-day tasks, I was involved in service re/design, and the overall organization strategy and planning.
 
 My biggest event gig has been [EuroPython](https://ep2025.europython.eu/). I joined the organizing team as the first paid Event Manager on board for the year 2025 in Prague and I am helping with the upcoming years as well. 
 
@@ -30,10 +32,10 @@ In my free time, I am active in the Czech Python community, now mostly as an org
 #### Freelance Community Ops, IT Project Consultant, Event Manager, 2021 – now
 Various roles:
 * EuroPython Society, 2025 – now (Event Manager, EuroPython Conferences)
-* Doughnut Czechia, 2023 – now (Event and Community management)
+* Byro, 2025 – now (Event Team Manager, Festival kreativní byrokracie 2025, Community management since 09/2025)
+* Doughnut Czechia, 2023 – now (Event and Community support)
 * Space Dog, 2024 – now (Community management – Tech Execs, Community Builders, IT Trendy)
 * Česko.Digital, 2021 – 2025 (Community and Projects)
-* Byro, 2025 (Event Team Manager, Festival kreativní byrokracie 2025)
 * Sdružení VIA, 2024 (Community consultations for NGOs)
 * AAVIT, 2024 – 2025 (Project support, IT Fitness Test 2024)
 
