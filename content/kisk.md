@@ -32,3 +32,7 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 ### [Případová studie: Samostatný exploratory research](https://anezka.muller.dev/kisk_content/exploratory_research/)
 ### [Kyberbezpečnost, design a lidé: Miniprojekt](https://anezka.muller.dev/kisk_content/kyberbezpecnostni_projekt/)
 ### [Reflexe druhého semestru](https://anezka.muller.dev/kisk_content/reflexe_druhy_semestr/)
+
+# 3. semestr
+
+### [Reflexe třetího semestru](https://anezka.muller.dev/kisk_content/reflexe_treti_semestr)
