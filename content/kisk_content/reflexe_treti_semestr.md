@@ -1,6 +1,11 @@
-# Reflexe třetího semestru
++++ 
+title = "Reflexe třetího semestru" 
+date = "2025-12-25" 
+author = "Anežka Müller" 
++++
 
-## **Na úvod**
+
+### Na úvod
 
 Třetí semestr studia pro mě znamenal velkou změnu, ze které jsem měla zpočátku obavy. Přestala jsem spolupracovat s Česko.Digital, kde jsem měla možnost aplikovat řadu věcí ze studia přímo v praxi. Bylo to pro mne skvělé pískoviště, kde jsem si mohla na reálných projektech osahat teoretické koncepty ze studia a tím se také snižovala časová náročnost při kombinování školních a pracovních povinností. Nebyla jsem si jistá, jak se toto promění v rámci spolupráce s jinými organizacemi, kterou jsem navázala v létě a na podzim. 
 
@@ -8,13 +13,13 @@ Nakonec se mi díky konzultacím s vyučijícími a garanty předmětů podařil
 
 Nové spolupráce se odrazily jak ve studijních cílech, tak například i v rámci projektů pro interakční desing a digitální přístupnost. 
 
-## **Studijní cíl pro třetí semestr**
+### Studijní cíl pro třetí semestr
 
 Během studia i různých pracovních projektů jsem zjistila, že nedílnou součástí designu služeb je vedení různých workshopů v různých stádiích procesu tvorby. Několik jsem absolvovala jako přímá účastnice, v uplynulém semestru jsem pomáhala jako zapisovatelka při workshopu vedeném spolužuctvem z vyššího ročníku DIS, ale z facilitace jako takové mám velký respekt.
 
 Dostala jsem nicméně možnost podílet se na obrysech workshopu pro akci, kterou jsem pomáhala organizovat letos v listopadu a rozhodla jsem se zaměřít se na oblast přípravy a facilitace workshopů blíže i v rámci studia a propojit to celé i s praxí, pokud pro to najdu vhodnou cestu.
 
-### **Jak se mi vedlo?**
+#### Jak se mi vedlo?
 
 Měla jsem možnost koukat pod ruce [Jarmily Bíškové](https://www.linkedin.com/in/jarmila-b%C3%AD%C5%A1kov%C3%A1-817579240/), která stála za celým programovým konceptem akce [Laboratoř životaschopnosti](https://www.doughnutczechia.cz/laborator-zivotaschopnosti), a [Ley Belejové](https://www.linkedin.com/in/lea-belejov%C3%A1/), kterou jsme přizvali do týmu, aby připravila pro účastnictvo půldenní workshop radikální imaginace. Přizvaly mne ke spolupráci, abych pomohla formovat workshop vzhledem k naší cílové skupině a celkovým zamýšleným dopadům akce. 
 
@@ -36,11 +41,11 @@ https://www.robhopkins.net/2020/04/21/when-a-resilient-future-calls-by-to-see-if
 
 https://re-set.cz/download/Publikace/Odvaha-nerust.pdf 
 
-### **Jak jsem to zúročila v praxi?
+#### Jak jsem to zúročila v praxi?
 
 Koncem listopadu jsem dostala příležitost pro dvě různé organizace vést workshopy zaměřené na reformulaci mise a vize s návazností na jejich aktivity. Ze spolupráce s Leou a Jarmilou jsem si pro přípravu na tyto setkání odnesla především způsob práce. Od formulace očekávaných výstupů a popisu cílové skupiny přes zkoumání různých existujících frameworků a metod po přípravu podrobného scénáře jednotlivých setkání.  
 
-## Co dalšího si odnáším z tohoto semestru?
+### Co dalšího si odnáším z tohoto semestru?
 
 Tento semestr se pro mne nesl také v duchu seznamování s novými nástroji, a to především ve dvou kurzech: Digitální přístupnost a [DigiCompEdu: Technologie ve vzdělávání](https://kisk.phil.muni.cz/edutech/digicompedu). 
 
