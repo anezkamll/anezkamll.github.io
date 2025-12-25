@@ -46,6 +46,8 @@ I když jsem tedy nezažila na této akci facilitaci na vlastní kůži, byla js
 
 Zde několik zajímavých zdrojů z přípravy:
 
+https://kisk.phil.muni.cz/100metod
+
 https://www.futuropolis.cz/metoda/metoda-futuropolis/imaginace/
 
 https://matchboxstudio.medium.com/kate-raworths-three-horizons-framework-intro-a-guide-for-workshop-use-5e25235c587d
