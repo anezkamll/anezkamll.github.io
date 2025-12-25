@@ -8,7 +8,7 @@ Nakonec se mi díky konzultacím s vyučijícími a garanty předmětů podařil
 
 Nové spolupráce se odrazily jak ve studijních cílech, tak například i v rámci projektů pro interakční desing a digitální přístupnost. 
 
-## **Studijní cíl pro druhý semestr**
+## **Studijní cíl pro třetí semestr**
 
 Během studia i různých pracovních projektů jsem zjistila, že nedílnou součástí designu služeb je vedení různých workshopů v různých stádiích procesu tvorby. Několik jsem absolvovala jako přímá účastnice, v uplynulém semestru jsem pomáhala jako zapisovatelka při workshopu vedeném spolužuctvem z vyššího ročníku DIS, ale z facilitace jako takové mám velký respekt.
 
@@ -36,7 +36,7 @@ https://www.robhopkins.net/2020/04/21/when-a-resilient-future-calls-by-to-see-if
 
 https://re-set.cz/download/Publikace/Odvaha-nerust.pdf 
 
-### **Jak jse**m to zúročila v praxi?
+### **Jak jsem to zúročila v praxi?
 
 Koncem listopadu jsem dostala příležitost pro dvě různé organizace vést workshopy zaměřené na reformulaci mise a vize s návazností na jejich aktivity. Ze spolupráce s Leou a Jarmilou jsem si pro přípravu na tyto setkání odnesla především způsob práce. Od formulace očekávaných výstupů a popisu cílové skupiny přes zkoumání různých existujících frameworků a metod po přípravu podrobného scénáře jednotlivých setkání.  
 
