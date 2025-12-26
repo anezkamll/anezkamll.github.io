@@ -35,4 +35,5 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 
 # 3. semestr
 
+### [Příprava a vedení workshopu](https://anezka.muller.dev/kisk_content/workshopy/)
 ### [Reflexe třetího semestru](https://anezka.muller.dev/kisk_content/reflexe_treti_semestr)
