@@ -67,5 +67,15 @@ S jeho pomocí se nám během workshopu podařilo zadefinovat účel a základn�
 
 Výstupy z workshopu už posloužily jako základ pro plán komunitních akcí pro rok 2026 a pro prioritizaci činností v rámci chodu a rozvoje komunity.
 
-### Co si z toho odnáším?
+### Co si odnáším?
 
+Vedení obou workshopů byla skvělá zkušenost.
+Bavilo mě se na ně připravovat, bavilo mě účastnictvo provádět nastavenou cestou i improvizovat, pokud bylo potřeba z ní na chvíli uhnout.
+Velkou výhodou v obou případech bylo, že s organizacemi spolupracuji už nějakou dobu, nejednalo se o cizí lidi a šlo pro mne o bezpečné prostředí.
+Vnímala jsem důvěru, se kterou do toho všichni zúčastnění šli, ale zároveň pravděpodobně nebyly nároky na můj způsob facilitace tak vysoký, jako by mohl být v případě profesionální facilitátorky.
+
+Zároveň bylo zajímavé stát v obou případech na "nezúčastněné" straně, tedy nepřinášet vlastní vstupy. 
+V obou případech přitom výstupy workshopu ovlivní moji další spolupráci s organizacemi, protože z nich pro mne částečně plynou pracovní úkoly do budoucna.
+Ale možná tím, že s oběma organizacemi spolupracuji poměrně krátce, neměla jsem tendence přinášet vlastní myšlenky. 
+
+Nedokážu si zatím představit, že bych připravovala podobný workshop na míru pro tým či organizaci, kterou neznám, ale získala jsem trochu facilitátorské sebedůvěry, na které mohu do budoucna stavět.
