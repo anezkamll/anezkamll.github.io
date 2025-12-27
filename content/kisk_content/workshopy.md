@@ -1,5 +1,5 @@
 +++ 
-title = "Příprava a vedení workshopu formulace organizační vize a mise" 
+title = "Poznámky z praxe: Workshopy k tvorbě organizační mise a vize" 
 date = "2025-12-26" 
 author = "Anežka Müller" 
 +++
