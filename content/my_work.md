@@ -8,60 +8,59 @@ slug = "my_work"
 ### Byro, community of public servants
 Originally, I joined Byro just for organizing the [Creative Bureaucracy Festival](https://www.creativebureaucracy.cz/). 
 When they started looking for a community person, it was a logical step forward for me. 
-So I joined the team, with a focus on setting up a community building strategy, utilizing existing community resources, and supporting community creators (our core members) in their activities.
+So I joined the team, with a focus on setting up a community building strategy, utilizing existing community resources, and supporting community creators (our core members) in their initiatives.
 
 ### Community Builders Community
 In July 2024 I joined [Space Dog](https://www.spacedog.cz/), an organization standing behond the Community Builders (originally Czech Community of Community Builders). 
 My role was to revive regular meetups in both Prague and Brno, and help to grow and nourish this community.
 
 ### Tech Execs
-[Tech Execs](https://www.techexecutives.cz/) are another community from Space Dog portfolio. After our one-year cooperation within Community Builders, I was asked to join Tech Execs as a Community Manager to boost the community engagement and support community acitivites. 
+[Tech Execs](https://www.techexecutives.cz/) are another community from Space Dog portfolio. After our one-year cooperation within Community Builders, I was asked to join Tech Execs to map the community needs and help determine the community building strategy for the upcoming year.    
 
 ### Česko.Digital
-[Česko.Digital](https://cesko.digital/) is an NGO focused on guiding other non-profit organizations and public administrations through the process of digital transformation, and its goal is for them to be able to use the potential of digital technologies and thus increase their impact. \
-My role is Community Operations, I help to maintain and develop community tools, set up processes and strategies, and provide support. 
-I also jump in as a junior UX researcher when needed.
+[Česko.Digital](https://cesko.digital/) is an NGO focused on guiding other non-profit organizations and public administrations through the process of digital transformation, and its goal is for them to be able to use the potential of digital technologies and thus increase their impact.   
+I covered mostly Community Operations there, as I helped to maintain and develop community tools, set up processes and strategies, and provided community and organization support.  
+I also jumped in several times as a junior UX researcher when needed.
 
 ### Doughnut Czechia
-After two years of 3 Faces of Just Transition conference, I became more involved in other activities of [Doughnut Czechia](https://www.doughnutczechia.cz/). 
+After two years of 3 Faces of Just Transition conference, I became more involved in other activities of [Doughnut Czechia](https://www.doughnutczechia.cz/).    
 I am currently helping with developing an educational board game, and in creating and executing new community strategy.
 
 ### PyLadies
 [PyLadies](https://pyladies.com/) is an international initiative which focuses on bringing more women to IT and IT to women and to become active participants in the Python open-source community. 
-In the Czech Republic, our main activities are Python courses and workshops for beginners and I am one of the organizers of those events. \
-As an alumni, I joined [PyLadies CZ](https://pyladies.cz/) in 2017 as an organizer of local programming courses and workshops. \
-Currently, I support the new generation of organizers, handle socail media, and represent our community at various events.
+In the Czech Republic, our main activities are Python courses and workshops for beginners and I am one of the organizers of those events.   
+As an alumni, I joined [PyLadies CZ](https://pyladies.cz/) in 2017 as an organizer of local programming courses and workshops.   
+I am no longer active in the local community, only time time I still support the new generation of organizers if needed.
 
 ### Czech Python Community
-In addition to PyLadies, I am also an active member of the Czech Python Community, where I mostly help with organizing community events.
+In addition to PyLadies, I am also an active member of the Czech Python Community, where I mostly help with organizing community events, such as Python Pizza, PyCamp, and previously also several editions of PyCon CZ.
 
 ## Events
 
 ### Viability Lab (Laboratoř životaschopnosti)
 A modified successor of the 3 Faces conferences (see below). 
 Our goal is to connect active people from the private, public and civic sectors who are experimenting with new ways of collaborating, making decisions and leading teams.
-We want to create an environment for exchanging experience and open the door to radicall imagination. \
-My role covers the event production a I take part in shaping the format of the event. \
+We want to create an environment for exchanging experience and open the door to radicall imagination.   
+My role covers the event production a I take part in shaping the format of the event.   
 [Laboratoř životaschopnosti](https://www.doughnutczechia.cz/laborator-zivotaschopnosti)
 
+### EuroPython 2025 Prague, 2026 Kraków
+After volunteering at EuroPython 2024, I was asked by the EuroPython Society Board to cover the local Event Manager role for the EuroPython 2025 and continue for 2026 as well.
+My responsibilities cover cooperation with the vendors, coordination or full organization of side events (Social Event, Speakers' Dinner), and supporting the volunteer-led Operations and Sponsors teams.   
+[EuroPython 2025 Prague & Remote](https://ep2025.europython.eu/)   
+[EuroPython 2026 Kraków](https://ep2026.europython.eu/)
 
-### EuroPython 2025
-After volunteering at EuroPython 2024, I was asked by the EuroPython Society Board to cover the local Event Manager role for the EuroPython 2025.
-My responsibilities covered cooperation with all vendors, organization of the main social event and speaker's dinner, and support of the volunteer-led Operations and Sponsors teams. \
-[EuroPython 2025 Prague & Remote](https://ep2025.europython.eu/)
-
-
-### Creative Bureaucracy Festival - Hub Prague 2022 - 2025
+### Creative Bureaucracy Festival - Hub Prague 2022 - 2026
 I took care of the whole production of this event in 2022 and have been administering the website from 2022 to 2024. 
 In 2024, I was responsible for the whole workshop agenda of the festival, including facilitator's guidance. 
-For 2025, my role was to coordinate the whole organizing team.\
+For 2025 and 2026, my role has been to coordinate the whole organizing team.   
 [Creative Bureaucracy Festival](https://creativebureaucracy.cz/) 
 
-### Python Pizza Brno 2025
+### Python Pizza Brno 2025, Ostrava 2026
 A really cool conference format originating from Naples in 2017.  
-In Czechia, the format was first tired in 2024 in Prague. \
-Brno edition in a nutshell: 3 organizers, 100 people, 21 talks, 90 pizzas, all in one day. \
-[Python Pizza Brno](https://brno.python.pizza/)
+In Czechia, the format was first tired in 2024 in Prague.     
+[Python Pizza Brno](https://brno.python.pizza/)   
+[Ostrava Python Pizza](https://ostrava.python.pizza/)
 
 ### 3 Faces of Just Transition 2024
 Second edition of this conference, this time focused on sustainable work and jobs.
