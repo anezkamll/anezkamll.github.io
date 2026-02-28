@@ -37,15 +37,8 @@ In addition to PyLadies, I am also an active member of the Czech Python Communit
 
 ## Events
 
-### Viability Lab (Laboratoř životaschopnosti)
-A modified successor of the 3 Faces conferences (see below). 
-Our goal is to connect active people from the private, public and civic sectors who are experimenting with new ways of collaborating, making decisions and leading teams.
-We want to create an environment for exchanging experience and open the door to radicall imagination.   
-My role covers the event production a I take part in shaping the format of the event.   
-[Laboratoř životaschopnosti](https://www.doughnutczechia.cz/laborator-zivotaschopnosti)
-
 ### EuroPython 2025 Prague, 2026 Kraków
-After volunteering at EuroPython 2024, I was asked by the EuroPython Society Board to cover the local Event Manager role for the EuroPython 2025 and continue for 2026 as well.
+After volunteering at EuroPython 2024, I was offered to cover the local Event Manager role for the EuroPython 2025 and then continue for 2026 as well.
 My responsibilities cover cooperation with the vendors, coordination or full organization of side events (Social Event, Speakers' Dinner), and supporting the volunteer-led Operations and Sponsors teams.   
 [EuroPython 2025 Prague & Remote](https://ep2025.europython.eu/)   
 [EuroPython 2026 Kraków](https://ep2026.europython.eu/)
@@ -61,6 +54,13 @@ A really cool conference format originating from Naples in 2017.
 In Czechia, the format was first tired in 2024 in Prague.     
 [Python Pizza Brno](https://brno.python.pizza/)   
 [Ostrava Python Pizza](https://ostrava.python.pizza/)
+
+### Viability Lab (Laboratoř životaschopnosti) 2025
+A modified successor of the 3 Faces conferences (see below). 
+Our goal is to connect active people from the private, public and civic sectors who are experimenting with new ways of collaborating, making decisions and leading teams.
+We want to create an environment for exchanging experience and open the door to radicall imagination.   
+My role covers the event production a I take part in shaping the format of the event.   
+[Laboratoř životaschopnosti](https://www.doughnutczechia.cz/laborator-zivotaschopnosti)
 
 ### 3 Faces of Just Transition 2024
 Second edition of this conference, this time focused on sustainable work and jobs.
