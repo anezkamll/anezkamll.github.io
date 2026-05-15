@@ -37,3 +37,7 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 
 ### [Poznámky z praxe: Příprava a vedení workshopu](https://anezka.muller.dev/kisk_content/workshopy/)
 ### [Reflexe třetího semestru](https://anezka.muller.dev/kisk_content/reflexe_treti_semestr)
+
+# 4. semestr
+
+### [Zpracování příchozích dokumentů v rámci Google Workspace](https://anezka.muller.dev/kisk_content/automatizace_workspace)
