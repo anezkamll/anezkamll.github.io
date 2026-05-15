@@ -64,7 +64,7 @@ Spustí se v okamžiku, kdy dojde ke změně políčka se stavem.
 Ovládá například rozesílání notifikací nebo přesun a přejmenování dokumentů.
 
 Třetí funkce posílá ranní přehled. 
-Projde tabulku a pošle seznam všech položek v “aktivnách” stavech (v mém případě vše krom “uhrazeno”). 
+Projde tabulku a pošle seznam všech položek v “aktivních” stavech (v mém případě vše krom “uhrazeno”). 
 
 Všechny tři funkce jsou na sobě nezávislé, ale všechny jsou navázané na daný Google Spreadsheet, na který je navázán celý skript v Apps Scriptu.
 
