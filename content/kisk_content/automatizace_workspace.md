@@ -28,10 +28,10 @@ Navržený proces byl tedy celkem přímočarý:
 
 Řešení jsem poté konzultovala s Claudem, který jej kompletně navrhl s pomocí nástrojů dostupných v Google Workspace:
 
-- **Gmail** – příjem obsahu, vyhledávání, štítkování
-- **Google Drive** – ukládání souborů do struktury složek
-- **Google Sheets** – evidence faktur a přehled stavů
-- **Apps Script** – řízení a spouštění jednotlivých kroků
+- **Gmail**: příjem obsahu, vyhledávání, štítkování
+- **Google Drive**: ukládání souborů do struktury složek
+- **Google Sheets**: evidence faktur a přehled stavů
+- **Apps Script**: řízení a spouštění jednotlivých kroků
 
 Celá automatizace je napojená na Google účet a po prvotním nastavení funguje sama na pozadí.
 
