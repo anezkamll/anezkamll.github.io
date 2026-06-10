@@ -21,7 +21,7 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 
 # 1. semestr
 
-### [Případová studie: Vznik osobních profilů komunity Česko.Digital](https://anezka.muller.dev/kisk_content/case_study_profiles/)
+### [Poznámky z praxe: Vznik osobních profilů komunity Česko.Digital](https://anezka.muller.dev/kisk_content/case_study_profiles/)
 ### [Rozhovor: Ivana Kolcunová, UX výzkumnice, Alma Career](https://anezka.muller.dev/kisk_content/interview_ivana_kolcunova/)
 ### [Případová studie: Od aplikace ke komunitě díky designovému procesu](https://anezka.muller.dev/kisk_content/case_study_6h/)
 ### [Reflexe prvního semestru](https://anezka.muller.dev/kisk_content/studijni_cil_1/)
@@ -29,7 +29,7 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 # 2. semestr
 
 ### [Datový deník](https://anezka.muller.dev/kisk_content/datovydenik/)
-### [Případová studie: Samostatný exploratory research](https://anezka.muller.dev/kisk_content/exploratory_research/)
+### [Poznámky z praxe: Samostatný exploratory research](https://anezka.muller.dev/kisk_content/exploratory_research/)
 ### [Kyberbezpečnost, design a lidé: Miniprojekt](https://anezka.muller.dev/kisk_content/kyberbezpecnostni_projekt/)
 ### [Reflexe druhého semestru](https://anezka.muller.dev/kisk_content/reflexe_druhy_semestr/)
 
