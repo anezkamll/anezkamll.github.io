@@ -1,5 +1,5 @@
 +++ 
-title = "Poznámky z praxe: Příprava nové služby" 
+title = "Poznámky z praxe: Rozjezd nové služby" 
 date = "2026-06-10" 
 author = "Anežka Müller" 
 +++
