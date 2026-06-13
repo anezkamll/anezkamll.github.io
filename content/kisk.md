@@ -42,3 +42,4 @@ A tuto stránku jsem založila jako **veřejné portfolio mých školních proje
 
 ### [Zpracování příchozích dokumentů v rámci Google Workspace](https://anezka.muller.dev/kisk_content/automatizace_workspace)
 ### [Poznámky z praxe: Rozjezd nové služby](https://anezka.muller.dev/kisk_content/case_study_nova_sluzba/)
+### [Reflexe čtvrtého semestru](https://anezka.muller.dev/kisk_content/reflexe_ctvtry_semestr)
